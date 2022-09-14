@@ -18,6 +18,24 @@ mv -  “move” - move file (will also overwrite a file if: "mv file.txt rename
 ###### Exercise - theZoo
 The animals are running the zoo. Download theZoo folder In terminal or power shell, using unix commands put all the animals in their proper places! 
 
+#### Git commands
+```
+git status
+git add .
+git commit -m "I am saving my work. This is my commit message."
+git status
+git push origin master
+```
+
+#### Resources
+##### Git
+* [Installing Git](https://git-scm.com/downloads)
+* [Creating a Personal Access Token](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+* [Github Pages](https://pages.github.com/)
+
+#### File Paths continued
+* [Absolute vs. Relative](https://www.coffeecup.com/help/articles/absolute-vs-relative-pathslinks/)
+
 ###### Web Dev Texts + Tutorials - HTML
 * [MDN Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 * [Dive into HTML5](http://diveinto.html5doctor.com/) - Mark Pilgrim
