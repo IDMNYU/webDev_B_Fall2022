@@ -1,9 +1,3 @@
-##### HTML 5 Tags:
-  * [MDN article tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
-  * [MDN section tag ](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section)
-  * [MDN header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
-  * [MDN footer tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/footer)
-  * [MDN navigation tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
   ##### CSS Units of Measurement
 * [w3 Schools CSS units](https://www.w3schools.com/cssref/css_units.asp)
