@@ -1,0 +1,73 @@
+* {
+
+}
+
+body {
+    background-color: pink;
+  
+
+}
+
+mark {
+    padding:10px;
+    margin: 2vw;
+}
+
+.metal {
+    font-size: 36px;
+}
+
+/* https://www.google.com/search?hl=en&q=gun%20metal%20gray%20in%20css */
+.metal:hover{
+    background-color: #8D918D;
+    padding: 3vw;
+    color: white;
+}
+
+#DOD {
+    display: flex;
+    font-size: 4vw;
+    background-color: lightblue;
+    flex-direction: column;
+  
+
+}
+
+details {
+    background-color: #8D918D;
+    padding: 3vw;
+    margin: 40px;
+}
+#DOD p {
+    background-color: green;
+    padding: 2vw;
+    margin: 10px;
+    text-transform: uppercase;
+
+}
+
+#DOD img{
+    width:200px;
+    background-color: yellow;
+}
+
+#AIM {
+    display: flex;
+    background-color:lightblue;
+    margin: 20px;
+
+  
+}
+#AIM p {
+    background-color: green;
+    font-size: 100;
+    color: white;
+
+}
+
+#AIM section {
+    background-color: pink;
+    margin: 3vw;
+    padding: 20px;
+    
+}
