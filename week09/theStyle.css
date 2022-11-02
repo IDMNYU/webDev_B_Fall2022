@@ -1,0 +1,18 @@
+body {
+    background-color: hotpink;
+}
+
+main {
+    background-color: green;
+}
+
+h5 {
+    padding: 60px;
+    margin: 50px;
+    background-color: yellow;
+}
+
+div {
+    padding: 60px;
+    margin: 50px;
+}
