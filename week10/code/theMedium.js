@@ -22,13 +22,18 @@ function changeColor(){
     
 
 }
+let thePara;
 
-// document.createElement("p")
+function getReal(){
+    console.log("ya real")
+    //https://developer.mozilla.org/en-US/docs/Web/API/Document/createElement
+  
+    thePara =  document.createElement("p");
+   const theContent = document.createTextNode("what the waht?")
+    thePara.appendChild(theContent);
+    const thisDiv = document.querySelector("div");
+    document.body.insertBefore(thePara,thisDiv)
+}
 
-// * Intro to Native EcmaScript (JavaScript)
-// * they style property object - on [MDN](https://developer.mozilla.org/en-US/docs/Web/API/ElementCSSInlineStyle/style)
+document.getElementById('fire').addEventListener('click', getReal)
 
-//##### Assignment for Thursday:
-// * Read: [w3 - what is the DOM?](https://www.w3.org/TR/DOM-Level-1/introduction.html)
-// * Read: [How to Apply CSS Styles to Page Elements Using JS](https://medium.com/javascript-in-plain-english/how-to-apply-css-styles-to-page-elements-using-javascript-e6d4a22a40de)
-// * Work on your button code and come to class on Thursday prepared to continue working with your partner on your assignments
